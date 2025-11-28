@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# AI Agent Folders
+AI_KOREKSI/
+AI_HASIL/
+
+# Backups
+backup/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# IDE specific
+.vscode/
+.idea/
