@@ -11,6 +11,10 @@ AI_HASIL/
 # Backups
 backup/
 
+# Local Documentation & Tools (not for GitHub)
+docs/
+tools/
+
 # OS generated files
 Thumbs.db
 .DS_Store
